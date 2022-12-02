@@ -1,4 +1,4 @@
-Web link: https://weblab.cs.uml.edu/~amahi/ 
+Web link: https:https://sharminanu.github.io/
 Follow project page using the above weblink.
 
 Original Github repository of this Project: https://github.com/SharminAnu/SharminAnu.github.io 
